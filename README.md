@@ -1,5 +1,5 @@
 # MLE-Final-Project
-Project Title: Wind Turbine Power Prediction 
+Project Title: Wind Turbine Power Prediction <br>
 Name: Allie Labrecque
 
 Description: 
