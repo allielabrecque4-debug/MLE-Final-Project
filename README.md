@@ -13,7 +13,7 @@ Methods: <br>
 3 different machine learning methods were used in this project: Random Forest Regression, Support Vector Regression, and Reccurrent Neural Network. RF and SVR were chosen because they were found to be highly successful models in literature. The hyperparemeters of the RF model were tuned using GridSearch to optimize performance. RNN with LSTM was selected due to its strength in retaining information over a long period of time. 
 
 Instructions: <br>
-The dataset is in /data. <br>
+The dataset is in /WindProps.csv <br>
 Use the code in Load_Wind_Dataset.ipynb to load and filter the data, and then split it into training and testing sets. <br>
 The file Wind_Turbine_Dataset_Visualization.ipynb contains code to visualize the different features of the dataset. <br>
 The file Wind_Turbine_Project_Code.ipynb contains all of the code to run the 3 algorithims (RF, SVR, RNN), the trained models, and the plots of their results. Each section is labeled with a different header and their are text descriptions / comments explaining each step. Once the dataframe is loaded, any of the algrothims can be run independently of the others. 
